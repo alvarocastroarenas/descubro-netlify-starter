@@ -11,14 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-		// <Header title="Descubro" />
+
         <img src="/logo.png"></img>
         <p className="description">
           Muy pronto a través de DESCUBRO podrás encontrar el mejor servicio de tasación de tu propiedad con profesionales calificados y certificados en todo Chile.
         </p>
       </main>
 
-      <Footer />
     </div>
   )
 }
