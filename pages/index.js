@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Descubro</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <img src="logo.png"></img>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Muy pronto a través de DESCUBRO podrás encontrar el mejor servicio de tasación de tu propiedad con profesionales calificados y certificados en todo Chile.</code>
         </p>
       </main>
 
